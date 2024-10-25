@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pup-spa/static/css/main.129c5dc8.css",
+    "main.js": "/react-pup-spa/static/js/main.cd2886ce.js",
+    "index.html": "/react-pup-spa/index.html",
+    "main.129c5dc8.css.map": "/react-pup-spa/static/css/main.129c5dc8.css.map",
+    "main.cd2886ce.js.map": "/react-pup-spa/static/js/main.cd2886ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.129c5dc8.css",
+    "static/js/main.cd2886ce.js"
+  ]
+}
